@@ -1,0 +1,6 @@
+{
+  "name": "Dreamland Travel",
+  "description": "Dreamland Travel EVT - Hacemos tu viaje soñado realidad. 14 años de experiencia diseñando experiencias internacionales y nacionales a tu medida desde Tucumán.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
