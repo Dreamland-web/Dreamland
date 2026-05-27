@@ -454,8 +454,8 @@ export default function App() {
               <p className="text-gray-500 text-xs sm:text-sm font-sans font-semibold tracking-wide uppercase">
                 Pje. Benjamín Paz, T4000 San Miguel de Tucumán, Tucumán, Argentina
               </p>
-              <p className="text-gray-400 text-[11px] font-mono font-bold tracking-widest">
-                CUIT: 27-33755936-6
+              <p className="text-gray-400 text-[11px] font-mono font-semibold tracking-widest">
+                LAZARTE MARIA ELENA • CUIT 27-38249249-3
               </p>
             </div>
           </div>
