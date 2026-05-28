@@ -450,12 +450,9 @@ export default function App() {
               className="w-full max-w-sm sm:max-w-md md:max-w-xl lg:max-w-2xl h-auto object-contain mx-auto"
               referrerPolicy="no-referrer"
             />
-            <div className="flex flex-col items-center gap-2 mt-1 select-none">
-              <p className="text-gray-500 text-xs sm:text-sm font-sans font-semibold tracking-wide uppercase">
-                Pje. Benjamín Paz, T4000 San Miguel de Tucumán, Tucumán, Argentina
-              </p>
-              <p className="text-gray-400 text-[11px] font-mono font-semibold tracking-widest">
-                LAZARTE MARIA ELENA • CUIT 27-38249249-3
+            <div className="flex flex-col items-center mt-1 select-none">
+              <p className="text-gray-400 text-[10px] sm:text-[11px] font-mono tracking-widest uppercase font-medium opacity-80">
+                LEIVA MARCIA EMILIA • CUIT - 27-33755936-6
               </p>
             </div>
           </div>
